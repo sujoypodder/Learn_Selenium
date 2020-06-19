@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/88016/Desktop/SQL/shakin QA/selenium-server-4.0.0-alpha-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/88016/Desktop/SQL/shakin QA/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/88016/Desktop/SQL/shakin QA/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-server-4.0.0-alpha-4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
